@@ -1,10 +1,19 @@
 package ej10;
 
+import java.util.Scanner;
+
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		//llamar al objeto tipo scanner para poder introducir valores
+		Scanner sc=new Scanner(System.in);
+		
+		
+		
+		
+		
+		
 	}
 
 }
